@@ -1,4 +1,4 @@
-![yo](./assets/foto.jpg)
+![yo](foto.jpg)
 
 
 # Lucas
